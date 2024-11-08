@@ -1,8 +1,5 @@
 # Wireless Networks
 
-### Author: Sunimal Rathnayake, CS2033 - Data Communication and Networks
-**With material from Prof. Gihan Dias and Dr. Sulochana Sooriarachchi**
-
 ---
 
 ## Lesson Outcomes
